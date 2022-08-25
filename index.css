@@ -14,7 +14,7 @@ background: linear-gradient(to right,hsl(200,100%,50%),hsl(175,100%,50%));
     position: relative;
     justify-content: center;
     align-items: center;
-    min-height: 50vh;
+    1:
 
 }
 .clock .number{
